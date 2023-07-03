@@ -16,6 +16,7 @@
 
 [![wnguyen's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cljml7673010608mgqsigylm6/project/2916383)](https://github.com/JaeSeoKim/badge42)
 
-[![wnguyen's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cljml7673010608mgqsigylm6/project/2904421)](https://github.com/JaeSeoKim/badge42)
+Ft_printf[![wnguyen's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cljml7673010608mgqsigylm6/project/2904421)](https://github.com/JaeSeoKim/badge42)
 
+Libft
 [![wnguyen's 42 Libft Score](https://badge42.vercel.app/api/v2/cljml7673010608mgqsigylm6/project/2868860)](https://github.com/JaeSeoKim/badge42)
