@@ -13,7 +13,7 @@
 
 ### 🧬 Profile
 I am a **Software Engineering Student** specialized in Artificial Intelligence, leveraging a **5-year background in Medical Sciences** (Chiropractic & Anatomy).
-My focus is on applying algorithmic rigor to clinical data challenges, specifically in **Oncology** and **Medical Imaging**.
+My focus is on applying algorithmic rigor to solve complex clinical challenges, specifically through **Multimodal AI (VLM)**, diagnostic processes and **medical imaging**.
 
 ### 🔭 Current Focus & Specialized Training
 * **Medical Imaging AI (Active):** Specialized training on **PyTorch** for Deep Learning in Healthcare (CNNs, Segmentation, Classification of DICOM/X-Ray data).
