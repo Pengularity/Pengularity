@@ -14,7 +14,7 @@
 
 ### 🧬 Profile
 I am a **Software Engineering Student** specialized in Artificial Intelligence, leveraging a **5-year background in Medical Sciences** (Chiropractic & Anatomy).
-My focus is on applying algorithmic rigor to solve complex clinical challenges, specifically through **Multimodal AI (VLM)**, diagnostic processes and **medical imaging**.
+My focus is on bridging the gap between clinical research and engineering, building **production-ready AI pipelines** for medical imaging and **Clinical Decision Support Systems (CDSS)**.
 
 ### 📌 Featured Project
 **[medical-ai-spleen-segmentation-MONAI](https://github.com/Pengularity/medical-ai-spleen-segmentation-MONAI)**
@@ -28,33 +28,39 @@ My focus is on applying algorithmic rigor to solve complex clinical challenges, 
     </td>
     <td>
 
-**3D spleen segmentation from abdominal CT scans.**
+**End-to-end clinical deployment pipeline.**
 
-- **Performance:** Dice score **0.935** (validation).
-- **Stack:** PyTorch, MONAI, 3D UNet, W&B.
-- **Pipeline:** Training with AMP, sliding-window inference, and clinical post-processing.
+- **Model Architecture:** 3D UNet trained with MONAI & PyTorch (Dice: **0.935**).
+- **Optimization:** Model exported to **ONNX** for high-performance inference.
+- **Production:** Deployed as a microservice using **FastAPI** & **Docker** on GPU.
+- **Low-Level:** Custom C++ inference engine implementation included.
 
-    </td>
-  </tr>
+<br>
+<div align="center">
+  
+  [**View Repository & Code**](https://github.com/Pengularity/medical-ai-spleen-segmentation-MONAI)
+
+</div>
+  </td> </tr>
 </table>
 
 <br />
 
 ### 🔭 Current Focus & Specialized Training
-* **Medical Imaging AI (Active):** Specialized training on **PyTorch** and **MONAI** for Deep Learning in Healthcare (CNNs, Segmentation, Classification of DICOM/X-Ray/CT data).
-* **LLM Engineering:** Fine-tuning Transformer models using the **Hugging Face** ecosystem for domain-specific adaptation.
-* **Clinical Decision Support System:** Full-stack development with **Next.js**, **XState**, **Prisma**, **Supabase** for healthcare workflows.
-* **Biological Computer Vision:** Developing pathology detection systems on organic datasets (*Project Leaffliction*).
+* **Medical Imaging AI:** Developing full-stack deep learning solutions (Segmentation, Classification) from raw DICOM to deployed containerized services.
+* **MLOps & Engineering:** Mastering the transition from research (Python) to production (ONNX, C++, Docker, CI/CD).
+* **LLM Engineering:** Fine-tuning Transformer models and building RAG systems for biomedical knowledge retrieval.
+* **Clinical Decision Support:** Full-stack development (Next.js, XState, Prisma, Supabase) for healthcare workflows and patient assessment tools.
 
 ### 🛠️ Technical Stack
 
-|  AI & Data  |  MedTech Standards |
+|  AI & Data Science |  MLOps & Model Serving |
 | :--- | :--- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white) ![MONAI](https://img.shields.io/badge/MONAI-8888FF?style=plastic&logo=monai&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=plastic&logo=huggingface&logoColor=black) <br> ![W&B](https://img.shields.io/badge/Weights_%26_Biases-FCBC32?style=plastic&logo=weightsandbiases&logoColor=black)  ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=plastic&logo=nvidia&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white) | ![DICOM](https://img.shields.io/badge/DICOM-005C9C?style=plastic) <br> ![NIfTI](https://img.shields.io/badge/NIfTI-005C9C?style=plastic) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white) <br> ![MONAI](https://img.shields.io/badge/MONAI-Medical_AI-8888FF?style=plastic&logo=monai&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=plastic&logo=huggingface&logoColor=black) ![W&B](https://img.shields.io/badge/Weights_%26_Biases-FCBC32?style=plastic&logo=weightsandbiases&logoColor=black) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-Runtime-005CED?style=plastic&logo=onnx&logoColor=white) <br> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=plastic&logo=nvidia&logoColor=white) |
 
-|  Core & DevOps |  Web & Backend |
+|  Full Stack Web |  Core & MedTech |
 | :--- | :--- |
-| ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white) <br> ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black) <br> ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white) | ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white) <br> ![DICOM](https://img.shields.io/badge/DICOM-005C9C?style=plastic) ![NIfTI](https://img.shields.io/badge/NIfTI-005C9C?style=plastic) |
 
 ---
 
