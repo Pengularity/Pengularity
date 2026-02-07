@@ -69,7 +69,7 @@ My focus is on bridging the gap between clinical research and engineering, build
 <br>
 <div align="center">
   
-  [**View Repository**](https://github.com/Pengularity/local-medical-rag)
+  [**View Repository**](https://github.com/Pengularity/Bio-RAG-clinical-agent)
   
 </div>
   </td> </tr>
