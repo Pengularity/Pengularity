@@ -1,7 +1,7 @@
 <div align="center">
   
   # William Nguyen
-  ### AI Engineering Student @42Paris 
+  ### Software & AI Engineering Student @42Paris 
   ### Academic Background in Medical Sciences
   
   <a href="mailto:contact@wnguyen.com">
@@ -16,7 +16,7 @@
 I am a **Software Engineering Student** specialized in Artificial Intelligence, leveraging a **5-year background in Medical Sciences** (Chiropractic & Anatomy).
 My focus is on bridging the gap between clinical research and engineering, building **production-ready AI pipelines** for medical imaging and **Clinical Decision Support Systems (CDSS)**.
 
-### 📌 Featured Project
+### 📌 Featured Project (1)
 **[medical-ai-spleen-segmentation-MONAI](https://github.com/Pengularity/medical-ai-spleen-segmentation-MONAI)**
 
 <table>
@@ -38,8 +38,39 @@ My focus is on bridging the gap between clinical research and engineering, build
 <br>
 <div align="center">
   
-  [**View Repository & Code**](https://github.com/Pengularity/medical-ai-spleen-segmentation-MONAI)
+  [**View Repository**](https://github.com/Pengularity/medical-ai-spleen-segmentation-MONAI)
 
+</div>
+  </td> </tr>
+</table>
+
+<br />
+
+### 📌 Featured Project (2)
+**[Bio-RAG — Agentic Clinical LLM & CDSS Engine](https://github.com/Pengularity/local-medical-rag)**
+
+<table>
+  <tr>
+    <td width="45%">
+      <div align="center">
+        <img src="https://img.shields.io/badge/RAG-Hybrid_Search-10B981?style=for-the-badge" alt="RAG" />
+        <br /><br />
+        <em>Local-first · BM25 + ChromaDB · FlashRank · Ollama</em>
+      </div>
+    </td>
+    <td>
+
+**Local RAG for clinical Q&A — no data leaves your machine.**
+
+- **Retrieval:** Hybrid search (BM25 + vector) with RRF; cross-encoder reranking (FlashRank).
+- **Stack:** LangChain, Streamlit, Ollama (Llama 3.1 / BioMistral).
+- **Privacy:** Fully on-premises; research & prototyping only.
+
+<br>
+<div align="center">
+  
+  [**View Repository**](https://github.com/Pengularity/local-medical-rag)
+  
 </div>
   </td> </tr>
 </table>
@@ -49,14 +80,14 @@ My focus is on bridging the gap between clinical research and engineering, build
 ### 🔭 Current Focus & Specialized Training
 * **Medical Imaging AI:** Developing full-stack deep learning solutions (Segmentation, Classification) from raw DICOM to deployed containerized services.
 * **MLOps & Engineering:** Mastering the transition from research (Python) to production (ONNX, C++, Docker, CI/CD).
-* **LLM Engineering:** Fine-tuning Transformer models and building RAG systems for biomedical knowledge retrieval.
+* **LLM Engineering:** Fine-tuning Transformer models and building RAG pipelines for biomedical knowledge retrieval and CDSS (e.g. Bio-RAG).
 * **Clinical Decision Support:** Full-stack development (Next.js, XState, Prisma, Supabase) for healthcare workflows and patient assessment tools.
 
 ### 🛠️ Technical Stack
 
 |  AI & Data Science |  MLOps & Model Serving |
 | :--- | :--- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white) <br> ![MONAI](https://img.shields.io/badge/MONAI-Medical_AI-8888FF?style=plastic&logo=monai&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=plastic&logo=huggingface&logoColor=black) ![W&B](https://img.shields.io/badge/Weights_%26_Biases-FCBC32?style=plastic&logo=weightsandbiases&logoColor=black) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-Runtime-005CED?style=plastic&logo=onnx&logoColor=white) <br> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=plastic&logo=nvidia&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)  ![MONAI](https://img.shields.io/badge/MONAI-Medical_AI-8888FF?style=plastic&logo=monai&logoColor=white) <br> ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=plastic&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=plastic&logo=langchain&logoColor=white) ![W&B](https://img.shields.io/badge/Weights_%26_Biases-FCBC32?style=plastic&logo=weightsandbiases&logoColor=black) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-Runtime-005CED?style=plastic&logo=onnx&logoColor=white) <br> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=plastic&logo=nvidia&logoColor=white) |
 
 |  Full Stack Web |  Core & MedTech |
 | :--- | :--- |
